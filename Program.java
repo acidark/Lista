@@ -32,8 +32,12 @@ public class Program {
         System.out.println("emergency fix");
         System.out.println("test2 with img");
         System.out.println("test editted from github");
+<<<<<<< HEAD
 >>>>>>> test
 
+=======
+        System.out.println("test,editted from github2");
+>>>>>>> 5b5b11aa8a3c514ecc270369e130e191354a909f
         //System.out.println(nuevaLista2.value(3));
         /*System.out.println(nuevaLista2.contains("hola"));
         System.out.println(nuevaLista2.contains("bye"));
