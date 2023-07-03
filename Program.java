@@ -29,11 +29,8 @@ public class Program {
         nuevaLista2.add("bye");
         System.out.println(nuevaLista2.size());
         System.out.println("test");
-<<<<<<< HEAD
         System.out.println("emergency fix");
-=======
         System.out.println("test2 with img");
->>>>>>> test
 
         //System.out.println(nuevaLista2.value(3));
         /*System.out.println(nuevaLista2.contains("hola"));
