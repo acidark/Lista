@@ -31,11 +31,7 @@ public class Program {
         System.out.println("test");
         System.out.println("emergency fix");
         System.out.println("test2 with img");
-<<<<<<< HEAD
-=======
         System.out.println("test editted from github");
->>>>>>> test
->>>>>>> origin/Main
 
         //System.out.println(nuevaLista2.value(3));
         /*System.out.println(nuevaLista2.contains("hola"));
