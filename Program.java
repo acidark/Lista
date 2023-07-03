@@ -39,6 +39,7 @@ public class Program {
         System.out.println("test6,editting from newbranch in github");
         System.out.println("test7,editting from newbranch in github");
         System.out.println("test 8 , new branch form local to github");
+        System.out.println("test 9 from local branch to gh");
 
         //System.out.println(nuevaLista2.value(3));
         /*System.out.println(nuevaLista2.contains("hola"));
