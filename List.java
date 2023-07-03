@@ -13,6 +13,8 @@ public class List<Type> {
         }
         this.lista[nextFreeIndex] = value;
         nextFreeIndex++;
+        nextFreeIndex--;
+        nextFreeIndex++;
     }
     public void grow(){
         int howMuch = this.lista.length+this.lista.length/2;
